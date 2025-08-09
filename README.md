@@ -1,48 +1,17 @@
-## 👋 Всем привет! Меня зовут Антон Косогоров. Мне 29 лет, я живу в городе Тюмень. 
-## 🌐 Я frontend developer.
+## 👋 Всем привет! Меня зовут Антон Косогоров. Я живу в городе Тюмень. 
+## 🌐 Я Teamlead Frontend Developer.
 ## 🎓 Высшее образование. "Тюменский Индустриальный Университет" - "Менеджмент".
 
-### 🛠 Мои навыки:
-  - 📒 Vue 2, 3      
-  - 📒 JavaScript
-  - 📒 TypeScript
-  - 🎨 HTML (+Pug), CSS (+SCSS): 
-    - PixelPerfect
-    - Адаптивность
-    - Доступность
-    - Кросс-браузерность
-    - БЭМ
-    - Кастомные элементы
-    - Верстка писем
-  - 🎓 React
-  - 📡 HTTP-протокол, REST API
-  - ⚡ npm
-  - 🎓 PHP + Laravel
-  - docker
-  - postman
-  - 🎨 Figma
-  - 📚 Библиотеки: 
-    - Bootstrap
-    - Vuetify
-    - jQuery
-    - Swiper
-    - GreenSock 
-    - и др.
-        
-  - 📁 Система контроля версий Git
-  - 🔨 Сборщики:
-    - Vite
-    - Gulp
-    - Webpack    
-  
-  - 🅰 Английский (начальный уровень)
-  
-## 🌱 Обучаюсь в компании Skillbox на профессию "Fullstack web-developer".
-## Ближайшие цели в учебе:   
-  - SSR
- 
+## 🛠 Основной стэк:
+  - 📒 [Nuxt 2, 3, 4](https://nuxt.com/)
+  - 📒 [TypeScript](https://www.typescriptlang.org/)
+  - 📒 [Feature-Sliced Design (FSD)](https://feature-sliced.github.io/documentation/ru/)
+  - 📒 [Nuxt UI](https://ui.nuxt.com/)
+  - 📒 [Tailwindcss](https://tailwindcss.com/)
+
 ## Хобби: 
  - 🎸 Играю на гитаре
  - 🎲 Настольные игры
  - 🐎 Шахматы
  - 🎮 Видеоигры
+ - ⛀ Шашки на дорогах
